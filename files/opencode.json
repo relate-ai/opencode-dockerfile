@@ -16,6 +16,12 @@
           "cost": {"input": 0, "output": 0},
           "limit": {"context": 262144, "output": 32768}
         },
+        "recursive/flint-v1.0": {
+          "name": "Recursive: Flint v1.0 (free)",
+          "variants": {"free": {}},
+          "cost": {"input": 0, "output": 0},
+          "limit": {"context": 262144, "output": 32768}
+        },
         "cohere/north-mini-code:free": {
           "name": "Cohere: North Mini Code (free)",
           "cost": {"input": 0, "output": 0},
